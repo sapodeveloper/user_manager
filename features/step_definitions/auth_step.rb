@@ -1,7 +1,3 @@
-前提(/^ユーザが存在している$/) do
-  pending # express the regexp above with the code you wish you had
-end
-
 もし(/^ログインページにアクセスする$/) do
   pending # express the regexp above with the code you wish you had
 end
