@@ -26,10 +26,6 @@ end
   pending # express the regexp above with the code you wish you had
 end
 
-前提(/^ログインしている$/) do
-  pending # express the regexp above with the code you wish you had
-end
-
 もし(/^"(.*?)"ボタンを押す$/) do |arg1|
   pending # express the regexp above with the code you wish you had
 end
